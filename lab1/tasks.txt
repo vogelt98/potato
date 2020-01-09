@@ -3,3 +3,8 @@ Task 7
 git commit --amend
 https://help.github.com/en/github/committing-changes-to-your-project/changing-a-commit-message
 
+Task 8
+------
+eval $(ssh-agent)
+ssh-add -K
+https://stackoverflow.com/questions/10032461/git-keeps-asking-me-for-my-ssh-key-passphrase
