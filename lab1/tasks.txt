@@ -1,2 +1,5 @@
 Task 7
 ------
+git commit --amend
+https://help.github.com/en/github/committing-changes-to-your-project/changing-a-commit-message
+
