@@ -8,3 +8,12 @@ Task 8
 eval $(ssh-agent)
 ssh-add -K
 https://stackoverflow.com/questions/10032461/git-keeps-asking-me-for-my-ssh-key-passphrase
+
+Task 9
+------
+git log --grep="--no-mouse"
+
+commit c7e86ad4f1061b0cad9f64a6c9ad26f386bc1168
+Add --no-mouse option to replace FZF_MOUSE_ENABLED
+
+Source: https://www.gun.io/blog/git-search-log
